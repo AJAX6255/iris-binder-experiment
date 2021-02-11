@@ -7,7 +7,16 @@ A Binder-compatible repo with an `environment.yml` file.
 Access this Binder by clicking the blue badge above or at the following URL:
 
 http://mybinder.org/v2/gh/binder-examples/conda_environment/master?filepath=index.ipynb
+
+
+
 https://github.com/AJAX6255/iris-binder-experiment/blob/master/2.1-a-first-look-at-a-neural-network.ipynb
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AJAX6255/iris-binder-experiment/HEAD?urlpath=https%3A%2F%2Fgithub.com%2FAJAX6255%2Firis-binder-experiment%2Fblob%2Fmaster%2F2.1-a-first-look-at-a-neural-network.ipynb)
+
+.. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/AJAX6255/iris-binder-experiment/HEAD?urlpath=https%3A%2F%2Fgithub.com%2FAJAX6255%2Firis-binder-experiment%2Fblob%2Fmaster%2F2.1-a-first-look-at-a-neural-network.ipynb
+
 ## Notes
 The `environment.yml` file should list all Python libraries on which your notebooks
 depend, specified as though they were created using the following `conda` commands:
