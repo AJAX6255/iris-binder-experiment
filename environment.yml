@@ -3,7 +3,7 @@ channels:
   - conda-forge
 dependencies:
   - numpy
-  - sklearn
+  - keras
   - tensorflow
   - psutil
   - toolz
